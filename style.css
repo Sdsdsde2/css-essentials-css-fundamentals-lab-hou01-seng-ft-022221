@@ -16,6 +16,7 @@ a {
   padding-right: 10px;
   background: grey;
   position: absolute;
+  float: 0;
 }
 
 figcaption {
