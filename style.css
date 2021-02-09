@@ -18,6 +18,8 @@ nav a {
   margin: auto;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 10px;
+  background: grey;
 }
 
 figcaption {
