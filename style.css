@@ -11,12 +11,10 @@ img {
 
 a {
   margin: auto;
-  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background: grey;
   position: absolute;
-  float: none;
 }
 
 figcaption {
